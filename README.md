@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Heta Patel!
 - 👀 I’m interested in learning about the intricacies of technology whether it's hardware, software, or both.
-- 🌱 I’m currently learning to code in the programming language, C
+- 🌱 I’m currently learning to code in the programming language, C++
 - 📫 How to reach me - Linkedin: https://www.linkedin.com/in/hetapatel03/
 
 <!---
